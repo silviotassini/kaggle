@@ -1,3 +1,2 @@
-#Titanic project
-
-asd
+# Titanic
+Predict survival on the Titanic
